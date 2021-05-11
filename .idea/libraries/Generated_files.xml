@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/public/js/hs.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/jqu.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/message-user.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/messagerU.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/messanger.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/msg.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/notification.min.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/public/js/hs.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/jqu.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/message-user.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/messagerU.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/messanger.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/msg.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/notification.min.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

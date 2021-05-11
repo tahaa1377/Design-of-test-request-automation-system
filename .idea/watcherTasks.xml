@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectTasksOptions">
+    <enabled-global>
+      <option value="Less" />
+      <option value="YUI Compressor CSS" />
+      <option value="YUI Compressor JS" />
+    </enabled-global>
+  </component>
+</project>
